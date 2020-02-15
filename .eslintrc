@@ -24,6 +24,9 @@
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "no-console": ["off"],
     "arrow-parens": ["off"],
-    "import/prefer-default-export": ["off"]
+    "import/prefer-default-export": ["off"],
+    "indent": ["off"],
+    "react/destructuring-assignment": ["off"],
+    "react/prop-types": ["off"]
   }
 }
